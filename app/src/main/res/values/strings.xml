@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ResellHQ</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="re_enter_password">Re-Enter Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up2">Sign Up?</string>
+    <string name="welcome_back">WELCOME BACK</string>
+    <string name="activity">ACTIVITY</string>
+    <string name="fragment">Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
