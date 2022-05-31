@@ -6,7 +6,7 @@
 
 
     <item
-        android:id="@+id/menu_home"
+        android:id="@+id/menu_dashboard"
         android:title="My Dashboard"
         android:icon="@drawable/ic_home"/>
 
